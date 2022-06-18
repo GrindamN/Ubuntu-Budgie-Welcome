@@ -1,0 +1,642 @@
+.ubuntuBudgieWelcome {
+  flex-direction: column;
+  display: flex;
+  position: relative;
+  width: 100%;
+  height: 100%;
+  min-width: 0;
+  min-height: 0;
+  padding: 96px 24px 122px;
+}
+.ubuntuBudgieWelcome > :global(.__wab_flex-container) {
+  flex-direction: column;
+  justify-content: flex-start;
+  align-items: center;
+  min-width: 0;
+  min-height: 0;
+  margin-top: calc(0px - 16px);
+  height: calc(100% + 16px);
+}
+.ubuntuBudgieWelcome > :global(.__wab_flex-container) > *,
+.ubuntuBudgieWelcome
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > *,
+.ubuntuBudgieWelcome > :global(.__wab_flex-container) > picture > img,
+.ubuntuBudgieWelcome
+  > :global(.__wab_flex-container)
+  > :global(.__wab_slot)
+  > picture
+  > img {
+  margin-top: 16px;
+}
+.ubuntuWindow {
+  box-shadow: 0px 0px 0px 1px rgba(32, 32, 32, 1);
+  filter: drop-shadow(0px 4px 2px rgba(0, 0, 0, 0.25));
+  width: 1400px;
+  height: 805px;
+  display: block;
+  overflow: hidden;
+  flex-shrink: 0;
+  border-radius: 8px;
+}
+.applicationArea {
+  background: rgba(61, 61, 61, 1);
+  width: 1400px;
+  height: 760px;
+  display: block;
+  position: absolute;
+  top: 45px;
+  left: 0px;
+  border-bottom-left-radius: 8px;
+  border-bottom-right-radius: 8px;
+}
+.svg__ilaNc {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #f2f2f2;
+  transform: translate(0px, -0.5px);
+  width: 312px;
+  height: 46px;
+  display: block;
+  top: 452px;
+  left: 42px;
+  border-radius: 10px;
+}
+.rectangle8 {
+  background: rgba(241, 241, 241, 1);
+  width: 312px;
+  height: 47px;
+  display: block;
+  position: absolute;
+  top: 537px;
+  left: 42px;
+  border-radius: 10px;
+}
+.titleBar {
+  width: 1400px;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.titleBar2 {
+  width: 1400px;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 0px;
+}
+.background {
+  background: rgba(43, 43, 43, 1);
+  box-shadow: inset 0px 0px 0px 1px rgba(88, 88, 88, 1);
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  border-top-left-radius: 8px;
+  border-top-right-radius: 8px;
+}
+.windowControls {
+  width: 64px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 12px;
+  left: 1324px;
+}
+.svg__kdNut {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #e5e5e5;
+  transform: translate(0px, -0.5px);
+  width: 8px;
+  height: 0px;
+  display: block;
+  top: 14px;
+  left: 0px;
+}
+.maximize {
+  width: 8px;
+  height: 8px;
+  display: block;
+  position: absolute;
+  top: 6px;
+  left: 25px;
+}
+.rectangle3 {
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+}
+.close {
+  width: 20px;
+  height: 20px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 44px;
+}
+.rectangle2 {
+  background: rgba(232, 83, 31, 1);
+  box-shadow: inset 0px 0px 0px 1px rgba(174, 174, 174, 0.2);
+  width: 100%;
+  height: 100%;
+  display: block;
+  position: absolute;
+  top: 0%;
+  left: 0%;
+  border-radius: 30px;
+}
+.svg__aelIx {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #e9e9e9;
+  transform: translate(0.3989999999998872px, 0.3990000000000009px);
+  width: 7.2px;
+  height: 7.199px;
+  display: block;
+  top: 6px;
+  left: 6px;
+}
+.application {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 26.66%;
+  left: 31.57%;
+  width: 36.85%;
+  height: 46.66%;
+}
+.text__wEc7W {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(255, 255, 255, 1);
+  position: absolute;
+  top: 12px;
+  left: 32px;
+}
+.ubuntuBudgieIcon2451 {
+  background: url("/plasmic/blank_project/images/ubuntuBudgieIcon2451.png") center center / cover no-repeat;
+  width: 31px;
+  height: 45px;
+  display: block;
+  position: absolute;
+  top: 0px;
+  left: 1266px;
+}
+.rectangle4 {
+  background: rgba(241, 241, 241, 1);
+  width: 1400px;
+  height: 288px;
+  display: block;
+  position: absolute;
+  top: 45px;
+  left: 0px;
+}
+._1200PxUbuntuBudgieWordmark1 {
+  background: url("/plasmic/blank_project/images/_1200PxUbuntuBudgieWordmark1.png") center center / cover no-repeat;
+  width: 462px;
+  height: 69px;
+  display: block;
+  position: absolute;
+  top: 105px;
+  left: 469px;
+}
+.text__aOu0Y {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 209px;
+  left: 457px;
+}
+.rectangle5 {
+  background: rgba(241, 241, 241, 1);
+  width: 312px;
+  height: 47px;
+  display: block;
+  position: absolute;
+  top: 369px;
+  left: 42px;
+  border-radius: 10px;
+}
+.rectangle11 {
+  background: rgba(241, 241, 241, 1);
+  box-shadow: inset 0px 0px 0px 1px rgba(0, 0, 0, 1);
+  width: 312px;
+  height: 47px;
+  display: block;
+  position: absolute;
+  top: 368px;
+  left: 1045px;
+  border-radius: 10px;
+}
+.rectangle12 {
+  background: rgba(241, 241, 241, 1);
+  width: 312px;
+  height: 47px;
+  display: block;
+  position: absolute;
+  top: 446px;
+  left: 1045px;
+  border-radius: 10px;
+}
+.rectangle9 {
+  background: rgba(241, 241, 241, 1);
+  width: 312px;
+  height: 47px;
+  display: block;
+  position: absolute;
+  top: 612px;
+  left: 42px;
+  border-radius: 10px;
+}
+.rectangle10 {
+  background: rgba(241, 241, 241, 1);
+  width: 1400px;
+  height: 59px;
+  display: block;
+  position: absolute;
+  top: 746px;
+  left: 0px;
+}
+.rectangle13 {
+  background: rgba(241, 241, 241, 1);
+  width: 312px;
+  height: 47px;
+  display: block;
+  position: absolute;
+  top: 530px;
+  left: 1045px;
+  border-radius: 10px;
+}
+.rectangle14 {
+  background: rgba(241, 241, 241, 1);
+  width: 312px;
+  height: 47px;
+  display: block;
+  position: absolute;
+  top: 613px;
+  left: 1045px;
+  border-radius: 10px;
+}
+.text__aCNt3 {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 383px;
+  left: 69px;
+  width: 258px;
+  height: 20px;
+}
+.text__tZaQp {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 465px;
+  left: 64px;
+  width: 260px;
+  height: 21px;
+}
+.text__gQpBw {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 549px;
+  left: 64px;
+  width: 260px;
+  height: 23px;
+}
+.text__cvzh {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 624px;
+  left: 72px;
+  width: 252px;
+  height: 26px;
+}
+.svg__eyjCr {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #1da1f2;
+  width: 24px;
+  height: 24px;
+  display: block;
+  top: 621px;
+  left: 89px;
+  overflow: hidden;
+}
+.text___4LPob {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 383px;
+  left: 1064px;
+  width: 259px;
+  height: 22px;
+}
+.text__aJkft {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 460px;
+  left: 1063px;
+  width: 254px;
+  height: 22px;
+}
+.text__jlhXg {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 546px;
+  left: 1065px;
+  width: 258px;
+  height: 20px;
+}
+.text__ojz5F {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 627px;
+  left: 1066px;
+  width: 258px;
+  height: 20px;
+}
+.svg__mlnfJ {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #4267b2;
+  width: 28px;
+  height: 28px;
+  display: block;
+  top: 765px;
+  left: 1318px;
+  overflow: hidden;
+}
+.img__uqCnw {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  width: 256px;
+  height: 256px;
+  display: block !important;
+  top: 368px;
+  left: 583px;
+  overflow: hidden;
+}
+.img__uqCnw > picture > img {
+  object-fit: cover;
+}
+.img__uqCnw > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.svg__srhr {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: red;
+  width: 28px;
+  height: 28px;
+  display: block;
+  top: 765px;
+  left: 1216px;
+  overflow: hidden;
+}
+.svg__oBHh {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #000;
+  width: 28px;
+  height: 28px;
+  display: block;
+  top: 766px;
+  left: 1266px;
+  overflow: hidden;
+}
+.text__irA0S {
+  display: block;
+  font-size: 18px;
+  text-align: center;
+  font-family: "Ubuntu", sans-serif;
+  font-weight: 700;
+  letter-spacing: 0em;
+  line-height: 100%;
+  color: rgba(0, 0, 0, 1);
+  position: absolute;
+  top: 766px;
+  left: -32px;
+  width: 249px;
+  height: 25px;
+}
+.img__nmpc {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  width: 172px;
+  height: 41.904px;
+  display: block !important;
+  top: 753px;
+  left: 155px;
+}
+.img__nmpc > picture > img {
+  object-fit: cover;
+}
+.img__nmpc > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.svg__sGwyz {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #1da1f2;
+  width: 28px;
+  height: 28px;
+  display: block;
+  top: 765px;
+  left: 1166px;
+  overflow: hidden;
+}
+.svg__saIr {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #f58025;
+  width: 28px;
+  height: 28px;
+  display: block;
+  top: 763px;
+  left: 1116px;
+  overflow: hidden;
+}
+.svg__suQ5Y {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #1da1f2;
+  width: 24px;
+  height: 24px;
+  display: block;
+  top: 380px;
+  left: 1095px;
+  overflow: hidden;
+}
+.svg__pWaYm {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #1da1f2;
+  width: 24px;
+  height: 24px;
+  display: block;
+  top: 465px;
+  left: 91px;
+}
+.img__lq4DU {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  width: 24px;
+  height: 24px;
+  display: block !important;
+  top: 626px;
+  left: 1105px;
+  overflow: hidden;
+}
+.img__lq4DU > picture > img {
+  object-fit: cover;
+}
+.img__lq4DU > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.svg__fMh {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #1da1f2;
+  width: 24px;
+  height: 24px;
+  display: block;
+  top: 543px;
+  left: 1104px;
+  overflow: hidden;
+}
+.svg__tyBIs {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #1da1f2;
+  width: 24px;
+  height: 24px;
+  display: block;
+  top: 458px;
+  left: 1097px;
+  overflow: hidden;
+}
+.img__sAwL {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  width: 24px;
+  height: 24px;
+  display: block !important;
+  top: 381px;
+  left: 91px;
+  overflow: hidden;
+}
+.img__sAwL > picture > img {
+  object-fit: cover;
+}
+.img__sAwL > .__wab_img-spacer > img {
+  object-fit: cover;
+}
+.svg__dmxlX {
+  position: absolute;
+  object-fit: cover;
+  max-width: 100%;
+  color: #1da1f2;
+  width: 24px;
+  height: 24px;
+  display: block;
+  top: 546px;
+  left: 89px;
+  overflow: hidden;
+}
